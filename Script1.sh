@@ -9,5 +9,5 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "Hello Batch-16, We are learning Git/Github"
 echo "Good morning batch-18"
-echo "This is Siddharth's Commitls"
+echo "This is Siddharth's Commit"
 
